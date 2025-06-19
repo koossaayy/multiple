@@ -5,18 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>{{ __('Document') }}</title>
 </head>
 
 <body>
     {{ __('hello world') }}
 
     <p>
-        Maybe yes, maybe no; who knows
+        {{ __('Maybe yes, maybe no; who knows') }}
     </p>
 
     <p>
-        again, this should add this string and add spanish as well
+        {{ __('again, this should add this string and add spanish as well') }}
     </p>
 
 </body>
