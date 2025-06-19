@@ -10,6 +10,11 @@
 
 <body>
     {{ __('hello world') }}
+
+    <p>
+        Maybe yes, maybe no; who knows
+    </p>
+
 </body>
 
 </html>
