@@ -27,6 +27,9 @@
         {{ __('Hello world AGAINA AND AGAIN AND AGAIN') }}
     </p>
 
+    <p>
+        Git stuff
+    </p>
 
 
 
