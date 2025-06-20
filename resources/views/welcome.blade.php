@@ -28,11 +28,11 @@
     </p>
 
     <p>
-        Git stuff
+        {{ __('Git stuff') }}
     </p>
 
     <p>
-        It will say two
+        {{ __('It will say two') }}
     </p>
 
 
