@@ -24,7 +24,7 @@
     </p>
 
     <p>
-        Hello world AGAINA AND AGAIN AND AGAIN
+        {{ __('Hello world AGAINA AND AGAIN AND AGAIN') }}
     </p>
 
 
